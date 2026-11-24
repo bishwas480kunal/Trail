@@ -120,6 +120,6 @@
 // let colours = ["Green", "Yellow"];
 // colours.splice(1, 0, "Red", "Blue");
 
-let items = [1,2,3,4,5,6];
-let newarr = items.slice(1, 4);
-console.log(newarr);
+// let items = [1,2,3,4,5,6];
+// let newarr = items.slice(1, 4);
+// console.log(newarr);
